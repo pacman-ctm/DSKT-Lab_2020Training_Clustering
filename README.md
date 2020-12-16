@@ -1,4 +1,4 @@
-# DSKT-Lab_2020Training_Clustering
+# DSKT Lab Training Program 2020 - Clustering.
 Summer Training in Data Science and Knowledge Technology Laboratory, Lecture 06 - Clustering.
 
 ## 1. Titanic Task: Phân lớp sống/chết
